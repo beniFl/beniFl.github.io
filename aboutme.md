@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Quit uni, take an exam, do it again
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+はじめまして！「紅花」と申します。 
+日常の様々な出来事や、経験などを書いていきます。よろしくお願いします！
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### My Profile 
+某都立高校を卒業後、慶応義塾大学理工学部に入学するも、半年で中退。翌年の大学入試にも失敗し、二浪となる。駿台予備校で一年間の研鑽を積み、現在は（入った大学をここに入れる）に在学中。
